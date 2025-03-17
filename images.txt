@@ -1,1 +1,1 @@
-marqoai/marqo:latest
+chromadb/chroma:latest
