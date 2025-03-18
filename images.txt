@@ -1,1 +1,1 @@
-marqoai/marqo:2.8.1
+marqoai/marqo:2.13.1
