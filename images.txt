@@ -1,1 +1,1 @@
-vespaengine/vespa:8
+vespaengine/vespa-generic-intel-x86_64
