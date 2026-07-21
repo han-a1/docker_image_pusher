@@ -1,1 +1,1 @@
-chromadb/chroma
+mysql:8.4
