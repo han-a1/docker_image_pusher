@@ -1,1 +1,1 @@
-apache/iotdb:2.1
+apache/iotdb:2.1.0-standalone
