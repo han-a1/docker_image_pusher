@@ -1,1 +1,1 @@
-minio/minio:latest
+apache/iotdb:2.1.0
